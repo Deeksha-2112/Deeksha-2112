@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Deeksha 👋
 
-<!--
-**Deeksha-2112/Deeksha-2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Project Coordinator & IT Professional  
+📚 Learning Java, Agile & Scrum  
+🚀 Building projects and improving coding skills  
 
-Here are some ideas to get you started:
+## Skills
+- Agile & Scrum
+- Project Coordination
+- Java Basics
+- Google Workspace
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Java
+- Data Structures & Algorithms
+- Project Management Tools
+
+## Certifications
+- Google Project Management Professional Certificate
+- Amazon Junior Software Developer Certificate (In Progress)
